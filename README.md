@@ -26,6 +26,8 @@ SELECT AVG(rental_rate) from film ;
 SELECT COUNT(title) from film 
 WHERE title LIKE 'C%' ;
 
+YADA
+
 SELECT COUNT(*) from film 
 WHERE title LIKE 'C%' ;
 
