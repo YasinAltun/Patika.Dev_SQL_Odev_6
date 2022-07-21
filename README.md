@@ -14,7 +14,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.
 
-#ÇÖZÜMLER
+# ÇÖZÜMLER
 
 
 ## 1.film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
